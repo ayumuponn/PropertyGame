@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+body {
+      font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+      background: lightyellow;
+      padding: 20px;
+      text-align: center;
+}
+
+#money {
+      font: 80px bold sans-serif;
+      color: gold;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.3)
+}
+
+button {
+      cursor: pointer;
+      font-size: 24px;
+      padding: 10px 20px;
+      background-color: white;
+      border: 2px solid gold;
+      border-radius: 10px;
+}
